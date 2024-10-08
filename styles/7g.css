@@ -1,0 +1,30 @@
+.a{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding:12px;
+    width: 450px;
+    border-radius: 6px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.text-box{
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+.tweets{
+    border:none;
+    border-radius: 28px;
+    color: white;
+    background-color: rgb(113, 113, 241);
+    padding: 8px 16px 8px 16px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}
