@@ -5,15 +5,13 @@
     justify-content: space-between;
 }
 .left-section{
-    background-color: lightblue;
-    width: 150px;
     display: flex;
     align-items: center;
 }
 .hamburger-menu{
-    height: 20 px;
-    margin-left: 20px;
-    margin-right: 20px;
+    height: 24px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 .youtube-logo{
     height: 20px;
