@@ -18,11 +18,31 @@
 }
 .middle-section{
     background-color: lightpink;
+    display: flex;
+    align-items: center;
     flex: 1;
     margin-left: 70px;
     margin-right: 38px;
     max-width: 500px;
 }
+.search-bar::placeholder{
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.search-bar{
+    flex: 1;
+    height: 34px;
+    font-size: 15px;
+}
+.search-button{
+    height: 40px;
+    width:60px;
+}
+.voice-search-button{
+    height: 40px;
+    width: 40px;
+}   
 .right-section{
     background-color: lightblue;
     width:200px;
